@@ -1,5 +1,9 @@
 # Changelog.md
 
+## [1.2.0] - 2024-01-0?
+### Changed (TODO)
+- revise script so that corresponding Excel file is an Excel template / add-in with embedded macros stored within
+   
 ## [1.1.0] - 2023-04-11
 ### Changed
 - Changed the method of calculating the SHA256 hash of the file and the certificate from certUtil.exe to Get-FileHash cmdlet
